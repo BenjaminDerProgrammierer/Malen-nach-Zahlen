@@ -1,3 +1,8 @@
-	svg path, rect, circle {
-		fill: white;
-	}
+svg path,
+rect,
+circle {
+  fill: white;
+}
+body {
+  background-color: rgba(123, 176, 185, 0.842);
+}
